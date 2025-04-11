@@ -19,12 +19,17 @@ yarn dev-server
 ## Frameworks
 
 [Express](https://expressjs.com/)
+
 [TSOA](https://tsoa-community.github.io/)
 
 ## Recommended frameworks to build off to
 
 [React](https://reactjs.org/)
+
 [Next.js](https://nextjs.org/)
+
 [Tailwind CSS](https://tailwindcss.com/)
+
 [Firestore](https://firebase.google.com/docs/firestore)
+
 [Firebase Auth](https://firebase.google.com/docs/auth)
