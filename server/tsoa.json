@@ -4,14 +4,7 @@
   "controllerPathGlobs": ["src/service-layer/controllers/**"],
   "spec": {
     "outputDirectory": "src/middleware/__generated__",
-    "specVersion": 3,
-    "securityDefinitions": {
-      "jwt": {
-        "type": "http",
-        "scheme": "bearer",
-        "bearerFormat": "JWT"
-      }
-    }
+    "specVersion": 3
   },
   "compilerOptions": {
     "baseUrl": "src"
